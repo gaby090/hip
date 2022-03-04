@@ -1,0 +1,2 @@
+# hip
+About: The data contains information about movies and TV shows that have been added to  the Netflix platform. The data has been cleaned and is ready for analysis. If there  were any errors in the fields that were scraped, such as spelling errors or derivatives  like "nite" instead of "night," they haven't been corrected. Fields: The dataset features 7777 observations with the columns (features) show id,  show type, title, director, cast, country, rating,  release year, year added, duration, seasons, genre,  description.
